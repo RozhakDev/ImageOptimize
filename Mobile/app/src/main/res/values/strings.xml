@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ImageOptimize</string>
+    <string name="nav_optimizer">Optimizer</string>
+    <string name="nav_history">History</string>
+    <string name="title_optimization">Optimizer Engine</string>
+    <string name="title_history">Telemetry Audit Log</string>
+    <string name="btn_pick_image">Pilih Gambar</string>
+
+    <string name="opt_empty_title">Tidak ada gambar yang dipilih</string>
+    <string name="opt_empty_subtitle">Tekan tombol di bawah untuk memulai</string>
+    <string name="opt_analyzing">Membaca data gambar...</string>
+    
+    <string name="opt_metrics_title">Spesifikasi Berkas</string>
+    <string name="opt_metrics_resolution">Resolusi</string>
+    <string name="opt_metrics_color_characteristics">Karakteristik Warna</string>
+    <string name="opt_metrics_original_format">Format Asli</string>
+    
+    <string name="opt_params_title">Parameter Optimasi</string>
+    <string name="opt_target_size">Ukuran Target (KB)</string>
+    <string name="opt_width">Lebar (px)</string>
+    <string name="opt_height">Tinggi (px)</string>
+    <string name="opt_output_format">Format Keluaran</string>
+    <string name="opt_preset">Profil Kompresi</string>
+    
+    <string name="opt_smart_crop_title">Pemotongan Cerdas (Smart Crop)</string>
+    <string name="opt_smart_crop_subtitle">Mempertahankan fokus pada objek utama saat dimensi gambar diubah.</string>
+    <string name="opt_preserve_exif_title">Pertahankan Metadata EXIF</string>
+    <string name="opt_preserve_exif_subtitle">Menyimpan properti orisinal seperti data lokasi geografis dan spesifikasi kamera.</string>
+    
+    <string name="opt_btn_optimize">Optimalkan Gambar</string>
+    <string name="opt_processing">Mengoptimalkan gambar...</string>
+    
+    <string name="opt_result_title">Perbandingan Hasil</string>
+    <string name="opt_result_original">Orisinal</string>
+    <string name="opt_result_optimized">Terkompresi</string>
+    <string name="opt_result_save_gallery">Simpan ke Galeri</string>
+
+    <string name="hist_empty_title">Belum ada riwayat kompresi</string>
+    <string name="hist_empty_subtitle">Daftar gambar yang telah Anda optimalkan akan tercatat di sini.</string>
+    
+    <string name="hist_dialog_title">Bersihkan Riwayat?</string>
+    <string name="hist_dialog_message">Seluruh log riwayat optimasi akan dihapus secara permanen. Tindakan ini tidak dapat dibatalkan.</string>
+    <string name="hist_dialog_btn_delete">Hapus</string>
+    <string name="hist_dialog_btn_cancel">Batal</string>
+    
+    <string name="hist_item_id">ID Transaksi: #</string>
+    <string name="hist_item_original">Orisinal</string>
+    <string name="hist_item_optimized">Terkompresi</string>
+    <string name="hist_item_ratio">Efisiensi</string>
+    <string name="hist_item_time">Waktu pemrosesan:</string>
+    
+</resources>
